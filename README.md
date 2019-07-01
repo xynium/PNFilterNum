@@ -9,6 +9,8 @@ Build:
 
 Code file are copies of my working directory, they were composed in QT Creator.
 
+Change directory name src for PNFilterNum
+
 Load QCustomPlot library.
 
 Place the file in a directory named qcustomplot at the same level as the PNFilterNum source directory.
